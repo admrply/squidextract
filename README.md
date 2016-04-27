@@ -12,3 +12,4 @@ $ ./squidcache.sh term-to-search-for
 This was a fairly quick and dirty script, so the chances of me actually getting round to building these in are very slim, however it should be to difficult to implement the following if anyone should fancy doing so:
 - Recover file names (should be possible from the HTTP headers)
 - Reconstruct full websites using string matching and replacement in HTML/CSS/etc pages
+- Add more magic numbers
