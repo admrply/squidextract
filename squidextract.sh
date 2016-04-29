@@ -11,7 +11,7 @@ if [[ $# -eq 0 ]]; then
   echo "Type the string to exract followed by [ENTER]"
   read string
 else
-  string=$1
+  string=$@
 fi
 
 # Magic Numbers
